@@ -47,8 +47,8 @@
 
 <style>
   body {
-    background: #2c6622;
-    color: #fff;
+    background: #ffae1f;
+    color: #000;
     font-family: 'Courier New';
     text-align: center;
     margin: 0;
@@ -72,7 +72,7 @@
     text-align: left;
   }
   a {
-    color: #e8e3dd;
+    color: #000;
     font-family: new-spirit, serif;
     font-weight: 500;
     font-style: normal;
